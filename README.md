@@ -193,3 +193,23 @@ Lucro da instituicao de ensino que usufruir deste banco de dados:
 
 ### Easter Egg:
 -> A quantidade de solicitacoes por caminhoes responsaveis pelo transporte de livros para a escola pode ser otimizada. Dividindo as entregas para os periodos de maior solicitação pelos alunos e dos temas/autores mais solicitados, levando maiores cargas em epocas pontuais, ao inves de mensalmente entragar uma quantidade menor de livros. 
+
+
+### Uso do código TenstandoSpring:
+1. É necessário criar um arquivo application.properties dentro da pasta TenstandoSpring/Teste/src/main/resources
+2. Em seguida inserir o seguinte código:
+   spring.application.name=Teste
+   spring.application.name=MeAjudaDeus
+   spring.datasource.url=jdbc:???
+   spring.datasource.username=???
+   spring.datasource.password=???
+   spring.jpa.hibernate.ddl-auto=none
+   spring.jpa.show-sql=true
+   spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+   spring.jpa.properties.hibernate.format_sql=true
+   server.error.inclue-message=always
+   spring.sql.init.mode=always
+3. Em seguida deve-se criar um banco de dados no postgres e substituir as interrogações por:
+   spring.datasource.url=jdbc: *Insira url do banco de dados*
+   spring.datasource.username= *Insira usuario do postgres*
+   spring.datasource.password= *Insira a senha do usuario postgres*
