@@ -182,3 +182,14 @@ Lucro da instituicao de ensino que usufruir deste banco de dados:
 - Valor do fardamento comprado
 - Valor do motorista do meio de transporte
 - Valor do lucro das excursoes
+
+### Perguntas que este projeto eh capaz de responder:
+- Quais autores e livros são mais buscados pelos alunos?
+- Quantos livros um aluno comprou durante o ano letivo?
+- Existem salas com muito mais alunos que outras?
+- 
+- 
+
+
+### Easter Egg:
+-> A quantidade de solicitacoes por caminhoes responsaveis pelo transporte de livros para a escola pode ser otimizada. Dividindo as entregas para os periodos de maior solicitação pelos alunos e dos temas/autores mais solicitados, levando maiores cargas em epocas pontuais, ao inves de mensalmente entragar uma quantidade menor de livros. 
