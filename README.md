@@ -187,12 +187,13 @@ Lucro da instituicao de ensino que usufruir deste banco de dados:
 - Quais autores e livros são mais buscados pelos alunos?
 - Quantos livros um aluno comprou durante o ano letivo?
 - Existem salas com muito mais alunos que outras?
-- 
-- 
+- Nos dormitorios encontram-se mais ou exclusivamente, pessoas do genero masculino ou feminino?
+- Os livros sao, em sua maioria, comprados ou emprestados?
+- Qual o tamanho do uniforme que a maioria dos estudantes usa em cada ano?
 
 
 ### Easter Egg:
--> A quantidade de solicitacoes por caminhoes responsaveis pelo transporte de livros para a escola pode ser otimizada. Dividindo as entregas para os periodos de maior solicitação pelos alunos e dos temas/autores mais solicitados, levando maiores cargas em epocas pontuais, ao inves de mensalmente entragar uma quantidade menor de livros. 
+-> A quantidade de solicitacoes por caminhoes responsaveis pelo transporte de livros para a escola pode ser otimizada. Dividindo as entregas para os periodos de maior solicitação pelos alunos e dos temas/autores mais solicitados, levando maiores cargas em epocas pontuais, ao inves de mensalmente entregar uma quantidade menor de livros. 
 
 
 ### Uso do código TenstandoSpring:
