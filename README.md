@@ -214,3 +214,7 @@ Lucro da instituicao de ensino que usufruir deste banco de dados:
    spring.datasource.url=jdbc: *Insira url do banco de dados* <br>
    spring.datasource.username= *Insira usuario do postgres* <br>
    spring.datasource.password= *Insira a senha do usuario postgres* <br>
+
+### Pitch:
+Irá ser uma apresentação de slide, o qual está postado no repositorio git, na apresentação iremos mostrar de forma resumida o porque
+o nosso banco de dados é o melhor e porque o cliente deverá compra-ló, e no final teremos uma participação especial do nosso CEO.
