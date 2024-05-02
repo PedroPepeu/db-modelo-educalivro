@@ -220,4 +220,6 @@ Lucro da instituicao de ensino que usufruir deste banco de dados:
 o nosso banco de dados é o melhor e porque o cliente deverá compra-ló, e no final teremos uma participação especial do nosso CEO.
 
 ### Easter Egg 2:
--> A proporção aurea é um numero/proporlçao que aparece em varios locais sejá no disgne, arquitetura, obra de artes e até mesmo na natureza. Nos descidimos Premiar nossos compradores que descidiram esse modelo de perfeição,
+->A proporção áurea é um número/proporção que aparece em vários locais, seja no design, arquitetura, obras de arte e até mesmo na natureza. Decidimos premiar nossos compradores que escolheram seguir esse modelo de perfeição. Quando comprarem 21 livros, receberão um desconto x. Após a compra dos próximos 13 livros, receberão um desconto y. Com a compra de 8 livros, um desconto Z. Ao adquirirem 5 livros, um desconto t. Com 3 livros, um desconto v. E ao comprarem 2 livros, um desconto j. Quando completarem essa sequência, o próximo livro será grátis.
+->Percebe-se que a sequência 21, 13, 8, 5, 3, 2, 1 é uma sequência de Fibonacci que segue a proporção áurea, onde a divisão do seu número sucessor pelo atual resulta na proporção áurea.
+
