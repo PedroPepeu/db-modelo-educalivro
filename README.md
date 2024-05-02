@@ -184,7 +184,8 @@ Lucro da instituicao de ensino que usufruir deste banco de dados:
 - Valor do lucro das excursoes
 
 ### Perguntas que este projeto eh capaz de responder: <br>
-- Quais autores e livros são mais buscados pelos alunos?
+- Quais livros são mais buscados pelos alunos?
+- Quais são os autores preferidos pelos alunos?
 - Quantos livros um aluno comprou durante o ano letivo?
 - Existem salas com muito mais alunos que outras?
 - Nos dormitorios, encontram-se mais ou exclusivamente, pessoas do genero masculino ou feminino?
