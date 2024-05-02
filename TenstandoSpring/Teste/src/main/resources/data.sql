@@ -34,4 +34,12 @@ INSERT INTO pay_method_financially_supports VALUES
 ('15151','41442443444', '12348'),
 ('16161','91992993999', '12349');
 
+/* INSERT INTO LIBRARY_BOOKS (idNum, book_edition, book_gender, book_synopsis, book_quantity, FK_DEPARTMENT_idNum, FK_CLUBS_WORKER_idNum, dt_borrow_start) 
+VALUES 
+('1', 1, 'Fiction', 'A thrilling adventure novel', 10, '1001', '2001', '2024-05-01'), */
+
+/* INSERT INTO ONLINE_ACCOUNT (idNum, account_name, account_email, account_cpf, account_adrss, FK_STUDENT_idNum, FK_LIBRARY_BOOKS_idNum) 
+VALUES 
+('1','John Doe', 'john@example.com', '12345678901', '123 Main St', '12345', '1'), */
+
 

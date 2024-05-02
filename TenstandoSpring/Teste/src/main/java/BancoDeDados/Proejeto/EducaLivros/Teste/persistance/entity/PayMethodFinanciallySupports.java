@@ -22,7 +22,7 @@ public class PayMethodFinanciallySupports {
     private Responsible responsible;
 
     @ManyToOne
-    @JoinColumn(name = "FK_STUDENT_idNum", referencedColumnName = "idNum", foreignKey = @jakarta.persistence.ForeignKey(name = "FK_PAY_METHOD_FINANCIALLY_SUPPORTS_2", foreignKeyDefinition = "FOREIGN KEY (FK_STUDENT_idNum) REFERENCES STUDENT(idNum)"))
+    @JoinColumn(name = "FK_STUDENT_idnum", referencedColumnName = "idnum", foreignKey = @jakarta.persistence.ForeignKey(name = "FK_PAY_METHOD_FINANCIALLY_SUPPORTS_2", foreignKeyDefinition = "FOREIGN KEY (FK_STUDENT_idnum) REFERENCES STUDENT(idnum)"))
     private Student student;
 
     public String getCryptoWalletNumber() {
