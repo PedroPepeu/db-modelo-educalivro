@@ -216,5 +216,8 @@ Lucro da instituicao de ensino que usufruir deste banco de dados:
    spring.datasource.password= *Insira a senha do usuario postgres* <br>
 
 ### Pitch:
-Irá ser uma apresentação de slide, o qual está postado no repositorio git, na apresentação iremos mostrar de forma resumida o porque
+-> Irá ser uma apresentação de slide, o qual está postado no repositorio git, na apresentação iremos mostrar de forma resumida o porque
 o nosso banco de dados é o melhor e porque o cliente deverá compra-ló, e no final teremos uma participação especial do nosso CEO.
+
+### Easter Egg 2:
+-> A proporção aurea é um numero/proporlçao que aparece em varios locais sejá no disgne, arquitetura, obra de artes e até mesmo na natureza. Nos descidimos Premiar nossos compradores que descidiram esse modelo de perfeição,
