@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HFxUtEaVl5ys0qR4JUlHfVcyMW1z7h6Xwd3LjJuajyz0q1RdWMln/9+229Ft8U71oDGNKp6ve+LYOcrhgdqGNA==",
+  "success": true,
+  "projectFilePath": "/home/dashi/codes/DB/db-modelo-educalivro/dotnet8/dotnet8.csproj",
+  "expectedPackageFiles": [
+    "/home/dashi/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/dashi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/dashi/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/dashi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/dashi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/dashi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/dashi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
