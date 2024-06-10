@@ -39,3 +39,5 @@
 /home/dashi/codes/DB/db-modelo-educalivro/dotnet8/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /home/dashi/codes/DB/db-modelo-educalivro/dotnet8/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
 /home/dashi/codes/DB/db-modelo-educalivro/dotnet8/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/dashi/codes/DB/db-modelo-educalivro/dotnet8/obj/Debug/net8.0/dotnet8.RazorAssemblyInfo.cache
+/home/dashi/codes/DB/db-modelo-educalivro/dotnet8/obj/Debug/net8.0/dotnet8.RazorAssemblyInfo.cs

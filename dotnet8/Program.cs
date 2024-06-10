@@ -1,4 +1,6 @@
 using Microsoft.OpenApi.Models;
+using System.Security.Claims;
+
 using EducaLivroStudent.DB;
 using EducaLivroResponsible.DB;
 using EducaLivroOnlineAccount.DB;
@@ -16,6 +18,7 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 if (app.Environment.IsDevelopment())
@@ -30,6 +33,8 @@ if (app.Environment.IsDevelopment())
 app.UseMiddleware<RequestLoggingMiddleware>();
 
 app.MapGet("/", () => "Hello World!");
+app.MapGet("/secret", (ClaimsPrincipal user) => $"Hello {user.Identity?.Name}. My secret")
+    .RequireAuthorization();
 
 // STUDENTS
 app.MapGet("/student", () => StudentDB.GetStudents()).RequireAuthorization();
