@@ -31,3 +31,11 @@
 /home/dashi/codes/DB/db-modelo-educalivro/dotnet8/obj/Debug/net8.0/dotnet8.pdb
 /home/dashi/codes/DB/db-modelo-educalivro/dotnet8/obj/Debug/net8.0/dotnet8.genruntimeconfig.cache
 /home/dashi/codes/DB/db-modelo-educalivro/dotnet8/obj/Debug/net8.0/ref/dotnet8.dll
+/home/dashi/codes/DB/db-modelo-educalivro/dotnet8/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/dashi/codes/DB/db-modelo-educalivro/dotnet8/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/dashi/codes/DB/db-modelo-educalivro/dotnet8/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/dashi/codes/DB/db-modelo-educalivro/dotnet8/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/dashi/codes/DB/db-modelo-educalivro/dotnet8/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/dashi/codes/DB/db-modelo-educalivro/dotnet8/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/dashi/codes/DB/db-modelo-educalivro/dotnet8/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/dashi/codes/DB/db-modelo-educalivro/dotnet8/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
